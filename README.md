@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 欢迎来到 马欢 的个人主页 👋👋😄😄  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrw-hm)    
 
-# 欢迎来到 马欢 的个人主页 👋     
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrw-hm)
+#### ------------------
 
 ## 基本信息 💬
 #### 马欢，南开大学经济学博士，现为东北财经大学国际经济贸易学院副教授，邮箱为lrwang625@163.com。
