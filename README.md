@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 欢迎来到 马欢 的个人主页 👋😄  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lrw-hm)    
+# 👋 欢迎来到 马欢 的个人主页 😄  ![](https://komarev.com/ghpvc/?username=lrw-hme&color=blue&style=flat-square)
 
 #### ------------------
 
