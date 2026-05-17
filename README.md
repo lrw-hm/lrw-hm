@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 公开发表论文 💬
 #### 马欢、李磊、盛斌、徐刚，《全球生产智能化对中国贸易与福利的影响》，《世界经济》，2024年第9期。
+#### Ma H, Yang G, and Zheng Y. Global Production Automation and China's Export Adjustment—Theoretical and Empirical Evidence[J]. The World Economy, 2026, 49(4): 779-803.
 #### 李磊、马欢（通讯作者），《从“生产回岸”谈“稳外资”——基于发达国家机器人使用驱动的分析》，《管理世界》，2023年第10期。
 #### 李磊、马欢（通讯作者）、徐刚，《最低工资、机器人使用与企业退出》，《世界经济》，2023年第1期。
 #### 李磊、马欢（通讯作者），《电子政务、贸易成本与企业出口》，《财经研究》，2022年第11期。
