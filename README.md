@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 - 李磊,刘泽寰,**马欢**. 自贸区协调内外双循环的机制与措施[J]. *贵州大学学报(社会科学版)*, 2021, 39(1):54-62.
 - 李磊,**马欢**. 数字政府能否留住外资?[J]. *中山大学学报(社会科学版)*, 2020, 60(4):183-194.
 
-- 
+- **MA H**, Han Y. The Impact of Joint Patent R&D by Domestic and Foreign Investors on the Innovation Capability of Local Enterprises[J]. *Available at SSRN 6449363*.
+- Li L, Liu B, **Ma H**, Wang X. Intelligent Manufacturing and Enterprise Low-Carbon Transformation: Evidence from Chinese Industrial Firms[J]. *Available at SSRN 5116467*.
 
 ## 主持及参与课题 💬
 - 国家自然科学基金青年项目，全球生产智能化对中国就业市场供需行为影响的研究—基于机器人使用的经验分析（72603048），主持，2027-2029.
