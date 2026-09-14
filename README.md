@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 欢迎来到 马欢 的个人主页  ![](https://komarev.com/ghpvc/?username=lrw-hme&color=blue&style=flat-square)
+# 欢迎来到马欢学术主页  ![](https://komarev.com/ghpvc/?username=lrw-hme&color=blue&style=flat-square)
 
 ## 基本信息 💬
 - 马欢，南开大学经济学博士，现为东北财经大学国际经济贸易学院副教授，lrwang625@163.com。
