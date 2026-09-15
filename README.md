@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 # 欢迎来到马欢学术主页  ![](https://komarev.com/ghpvc/?username=lrw-hme&color=blue&style=flat-square)
 
 ## 基本信息 💬
-- 马欢，南开大学经济学博士，现为东北财经大学国际经济贸易学院副教授，lrwang625@163.com。
-
-- 主要研究领域为数字经济、人工智能、国际贸易与跨国投资、全球产业链重构、就业市场结构性调整、技术创新等，侧重于开展经济学理论建模与大数据实证。研究成果发表在《管理世界》《世界经济》《财经研究》 The World Economy 等国内外权威期刊，部分成果被人大复印资料转载，获评2023年国际投资学最佳中文论文TOP10。担任《世界经济》《财经问题研究》等中英文期刊匿名审稿人。
+- 马欢，南开大学经济学博士，现为东北财经大学国际经济贸易学院副教授。主要研究领域为数字经济、人工智能、国际贸易与跨国投资、全球产业链重构、就业市场结构性调整、技术创新等，侧重于开展经济学理论建模与大数据实证。研究成果发表在《管理世界》《世界经济》《财经研究》 The World Economy 等国内外权威期刊，部分成果被人大复印资料转载，获评2023年国际投资学最佳中文论文TOP10。担任《世界经济》《中国经济问题》《财经问题研究》等期刊匿名审稿人。
 
 ## 发表及工作论文 💬
 - **Ma H**, Yang G, and Zheng Y. Global Production Automation and China's Export Adjustment: Theoretical and Empirical Evidence[J]. *The World Economy*, 2026, 49(4): 779-803.
